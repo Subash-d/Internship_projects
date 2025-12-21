@@ -1,0 +1,9 @@
+Rider_Info.csv
+.DS_Store
+Thumbs.db   
+.vscode/
+__pycache__/
+*.pyc
+env/
+*.ipynb_checkpoints
+.idea/
